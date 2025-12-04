@@ -1,1 +1,1 @@
-# Grade-Calculator
+# C++ Grade-Calculator
